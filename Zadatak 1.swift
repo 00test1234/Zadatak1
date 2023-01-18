@@ -1,5 +1,4 @@
 import Foundation
 
-print("commit B1")
-print("commit B2")
-
+print("commit1")
+print("commit2")
